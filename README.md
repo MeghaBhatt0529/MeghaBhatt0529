@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red)]
-[![Linkedin Badge](https://img.shields.io/badge/-Megha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/megha--01629954/)](https://www.linkedin.com/in/megha--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Megha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/megha--01629954/)](https://www.linkedin.com/in/megha-bhatt-80655b55)
 [![Website Badge](https://img.shields.io/badge/WebSite-Megha-green)](https://www.megha)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Megha-yellow)](https://stackoverflow.com/users/3687251/megha-)
 
