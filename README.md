@@ -7,7 +7,7 @@
 
 
 I'm
-Full Stack Developer intern at Edureka.
+Full Stack Web Development intern at Edureka.
 At present learning wide range of skills that include front end development (HTML5, CSS3, Javascript), back-end development using open source technologies (NodeJs), and database(MongoDB).
 
 
