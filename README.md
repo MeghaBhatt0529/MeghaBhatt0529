@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-MeghaBhatt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/megha-bhatt-80655b55)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-MeghaBhatt-yellow)](https://stackoverflow.com/users/19649454/MeghaBhatt-)
-[![Website Badge](https://img.shields.io/badge/WebSite-MeghaBhatt-green)](https://www.megha)
+[![Website Badge](https://img.shields.io/badge/WebSite-MeghaBhatt-green)](https://meghabhatt0529.github.io/MeghaBhatt-WebPage/)
 
 I'm
 Full Stack Web Development intern at Edureka.
