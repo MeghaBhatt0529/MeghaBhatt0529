@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-MeghaBhatt-green)](https://#MeghaBhatt-WebPage/)
 
 I'm
-Full Stack Web Development intern.
+Full Stack Web Development Intern.
 At present learning wide range of skills that include front end development (HTML5, CSS3, Javascript), back-end development using open source technologies (NodeJs), and database(MongoDB).
 
 
