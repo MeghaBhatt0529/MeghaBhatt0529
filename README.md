@@ -4,8 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-MeghaBhatt-yellow)](https://stackoverflow.com/users/19649454/MeghaBhatt-)
 [![Website Badge](https://img.shields.io/badge/WebSite-MeghaBhatt-green)](https://#MeghaBhatt-WebPage/)
 
-I'm
-Full Stack Web Development Intern.
+I'm,
 At present learning wide range of skills that include front end development (HTML5, CSS3, Javascript), back-end development using open source technologies (NodeJs), and database(MongoDB).
 
 
